@@ -1,4 +1,5 @@
 /data/
 *.p
 .ipynb_checkpoints
-/processed_data/
+/processed_input_model_data/
+/respiration_raw/
